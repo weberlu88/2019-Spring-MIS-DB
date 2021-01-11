@@ -1,0 +1,11 @@
+order_id,user_id,create_Date_Time,order_total,delivery_city,delivery_district,delivery_address_line
+1,1,2019/6/6,100,4,401,Hydra
+2,2,2019/6/6,75,10,1000,Stark headquarter
+3,3,2019/6/6,240,1,100,Asgard
+4,4,2019/6/6,13990,5,501,Queen
+5,5,2019/6/6,14000,7,701,nowhere
+6,6,2019/6/6,5600,6,600,heaven
+7,7,2019/6/6,1650,2,201,russia
+8,8,2019/6/6,2100,3,301,space
+9,9,2019/6/6,400,8,801,london
+10,10,2019/6/6,550,9,900,country
